@@ -94,7 +94,7 @@ const CryptoBoyNFTImage = ({ colors }) => {
     borderBottom: `8px solid ${mouthColor}`,
   };
 
-  // df
+  // d
   const neck = {
     position: "relative",
     left: "7.7rem",
